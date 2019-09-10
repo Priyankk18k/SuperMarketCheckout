@@ -7,3 +7,4 @@ Here A = Item,
      3 = Number of item,
      130 = Price of item.
 You can add multiple rules for multiple items.
+# I will be happy if you want to contribute
